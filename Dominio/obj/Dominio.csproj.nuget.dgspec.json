@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\velas\\4Capas\\Dominio\\Dominio.csproj": {}
+    "C:\\Users\\APM02-44\\4Capas\\Dominio\\Dominio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\velas\\4Capas\\Dominio\\Dominio.csproj": {
+    "C:\\Users\\APM02-44\\4Capas\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\velas\\4Capas\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\APM02-44\\4Capas\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "C:\\Users\\velas\\4Capas\\Dominio\\Dominio.csproj",
-        "packagesPath": "C:\\Users\\velas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\velas\\4Capas\\Dominio\\obj\\",
+        "projectPath": "C:\\Users\\APM02-44\\4Capas\\Dominio\\Dominio.csproj",
+        "packagesPath": "C:\\Users\\APM02-44\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\APM02-44\\4Capas\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\velas\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\APM02-44\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -67,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

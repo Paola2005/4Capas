@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\velas\\4Capas\\Api\\Api.csproj": {}
+    "C:\\Users\\APM02-44\\4Capas\\Api\\Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\velas\\4Capas\\Api\\Api.csproj": {
+    "C:\\Users\\APM02-44\\4Capas\\Api\\Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\velas\\4Capas\\Api\\Api.csproj",
+        "projectUniqueName": "C:\\Users\\APM02-44\\4Capas\\Api\\Api.csproj",
         "projectName": "Api",
-        "projectPath": "C:\\Users\\velas\\4Capas\\Api\\Api.csproj",
-        "packagesPath": "C:\\Users\\velas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\velas\\4Capas\\Api\\obj\\",
+        "projectPath": "C:\\Users\\APM02-44\\4Capas\\Api\\Api.csproj",
+        "packagesPath": "C:\\Users\\APM02-44\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\APM02-44\\4Capas\\Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\velas\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\APM02-44\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -26,8 +26,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\velas\\4Capas\\Aplicacion\\Aplicacion.csproj": {
-                "projectPath": "C:\\Users\\velas\\4Capas\\Aplicacion\\Aplicacion.csproj"
+              "C:\\Users\\APM02-44\\4Capas\\Aplicacion\\Aplicacion.csproj": {
+                "projectPath": "C:\\Users\\APM02-44\\4Capas\\Aplicacion\\Aplicacion.csproj"
               }
             }
           }
@@ -92,21 +92,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\velas\\4Capas\\Aplicacion\\Aplicacion.csproj": {
+    "C:\\Users\\APM02-44\\4Capas\\Aplicacion\\Aplicacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\velas\\4Capas\\Aplicacion\\Aplicacion.csproj",
+        "projectUniqueName": "C:\\Users\\APM02-44\\4Capas\\Aplicacion\\Aplicacion.csproj",
         "projectName": "Aplicacion",
-        "projectPath": "C:\\Users\\velas\\4Capas\\Aplicacion\\Aplicacion.csproj",
-        "packagesPath": "C:\\Users\\velas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\velas\\4Capas\\Aplicacion\\obj\\",
+        "projectPath": "C:\\Users\\APM02-44\\4Capas\\Aplicacion\\Aplicacion.csproj",
+        "packagesPath": "C:\\Users\\APM02-44\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\APM02-44\\4Capas\\Aplicacion\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\velas\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\APM02-44\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -118,11 +118,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\velas\\4Capas\\Dominio\\Dominio.csproj": {
-                "projectPath": "C:\\Users\\velas\\4Capas\\Dominio\\Dominio.csproj"
+              "C:\\Users\\APM02-44\\4Capas\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Users\\APM02-44\\4Capas\\Dominio\\Dominio.csproj"
               },
-              "C:\\Users\\velas\\4Capas\\Persistencia\\Persistencia.csproj": {
-                "projectPath": "C:\\Users\\velas\\4Capas\\Persistencia\\Persistencia.csproj"
+              "C:\\Users\\APM02-44\\4Capas\\Persistencia\\Persistencia.csproj": {
+                "projectPath": "C:\\Users\\APM02-44\\4Capas\\Persistencia\\Persistencia.csproj"
               }
             }
           }
@@ -152,21 +152,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\velas\\4Capas\\Dominio\\Dominio.csproj": {
+    "C:\\Users\\APM02-44\\4Capas\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\velas\\4Capas\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\APM02-44\\4Capas\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "C:\\Users\\velas\\4Capas\\Dominio\\Dominio.csproj",
-        "packagesPath": "C:\\Users\\velas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\velas\\4Capas\\Dominio\\obj\\",
+        "projectPath": "C:\\Users\\APM02-44\\4Capas\\Dominio\\Dominio.csproj",
+        "packagesPath": "C:\\Users\\APM02-44\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\APM02-44\\4Capas\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\velas\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\APM02-44\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -219,21 +219,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\velas\\4Capas\\Persistencia\\Persistencia.csproj": {
+    "C:\\Users\\APM02-44\\4Capas\\Persistencia\\Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\velas\\4Capas\\Persistencia\\Persistencia.csproj",
+        "projectUniqueName": "C:\\Users\\APM02-44\\4Capas\\Persistencia\\Persistencia.csproj",
         "projectName": "Persistencia",
-        "projectPath": "C:\\Users\\velas\\4Capas\\Persistencia\\Persistencia.csproj",
-        "packagesPath": "C:\\Users\\velas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\velas\\4Capas\\Persistencia\\obj\\",
+        "projectPath": "C:\\Users\\APM02-44\\4Capas\\Persistencia\\Persistencia.csproj",
+        "packagesPath": "C:\\Users\\APM02-44\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\APM02-44\\4Capas\\Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\velas\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\APM02-44\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -245,8 +245,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\velas\\4Capas\\Dominio\\Dominio.csproj": {
-                "projectPath": "C:\\Users\\velas\\4Capas\\Dominio\\Dominio.csproj"
+              "C:\\Users\\APM02-44\\4Capas\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Users\\APM02-44\\4Capas\\Dominio\\Dominio.csproj"
               }
             }
           }
@@ -286,7 +286,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
